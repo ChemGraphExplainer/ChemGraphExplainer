@@ -1,6 +1,6 @@
 ## ChemGraphExplainer 
 
-Due to licensing reasons, we cannot share the DIG library directly. Therefore, the user must download and install the DIG library on their own, and then train the AI models included in the DIG library. After that, copy the files located in the ChemGraphExplainer folder into the DIG\benchmarks folder. Then, you can run the GUI_xai.py file to use ChemGraphExplainer.
+Due to licensing reasons, we cannot share the DIG library directly. Therefore, the user must download and install the DIG library on their own, and then train the AI models included in the DIG library. After that, copy the files located in the ChemGraphExplainer folder into the DIG\benchmarks\xgraph folder. Then, you can run the GUI_xai.py file to use ChemGraphExplainer.
 
 <!--
 **ChemGraphExplainer/ChemGraphExplainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
